@@ -1,0 +1,6 @@
+name: Dragon-SMP-Plugin
+version: '${project.version}'
+main: com.supamash.suptest1.Main
+api-version: 1.18
+authors: [ Supamash ]
+description: The Dragon SMP plugin, coded by yours truly, Supamash. (also includes tipped arrows plugin)
